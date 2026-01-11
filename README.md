@@ -32,7 +32,7 @@
 1.  **克隆或下载仓库**
 
     ```bash
-    git clone https://github.com/yourusername/image-converter.git # 如果你还没有上传到GitHub，请忽略这行
+    git clone [https://github.com/yourusername/image-converter.git](https://github.com/amo123p/Convert-images-to-WebP-and-AVIF.git) 
     cd path/to/your/script # 进入你的脚本所在的目录
     ```
 
